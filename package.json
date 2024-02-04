@@ -1,0 +1,16 @@
+{
+  "name": "my-nodejs-webapp",
+  "version": "1.0.0",
+  "description": "This simple Node.js Web application for DevOps Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --passWithNoTests"
+
+  },
+  "author": "Mansour KA",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
